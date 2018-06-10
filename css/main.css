@@ -1,0 +1,36 @@
+
+body {
+	text-align: center;
+}
+
+.nav {
+	background-color: blue;
+	margin: 10px;
+	padding: 5px;
+}
+
+li {
+	background-color: pink;
+	display: inline;
+	padding: 10px;
+}
+
+.box {
+	display: inline-block;
+	width: 40%;
+}
+
+img {
+	width: 60%;
+	margin: 10px;
+	border: 10px;
+	padding: 10px;
+}
+
+.html-pic {
+	background-color: #2BA8E0;
+}
+
+.css-pic {
+	background-color: #EE6526;
+}
